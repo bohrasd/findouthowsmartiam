@@ -2,6 +2,9 @@
 site:
   title: Gazillions of worthless opinions
   description: Me being so freaking smart and never stop talking
-  base_url: http://findouthowsmartiam.github.com
+  base_url: http://bohrasd.github.com/findouthowsmartiam/
+ignore:
+  - "_site/*"
+
 # posts:
   # rss: rss.xml
