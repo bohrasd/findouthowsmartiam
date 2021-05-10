@@ -10,7 +10,5 @@ But deep down, you know that I know that you know that I don't care. There's a h
 
 ## Shitposts
 {% for post in collections.posts.pages %}
-#### {{post.title}}
-
-[{{ post.title }}]({{ post.permalink }})
+#### [{{ post.title }}]({{ post.permalink }})
 {% endfor %}

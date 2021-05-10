@@ -6,6 +6,6 @@ is_draft: false
 ---
 `notify-send "$(sleep 1800 && echo "move your ass")"`
 
-or watch/cron/at
+Or watch/cron/at/etc.
 
-any fancy command you see fit.
+Or any fancy command you see fit.
