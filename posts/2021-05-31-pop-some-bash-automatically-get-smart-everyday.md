@@ -1,6 +1,6 @@
 ---
 title: "pop some bash automatically, get smart everyday"
-published_date: "2021-05-20 17:11:52 +0000"
+published_date: "2021-05-31 05:48:54 +0000"
 layout: default.liquid
 is_draft: false
 ---
