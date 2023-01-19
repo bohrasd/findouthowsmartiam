@@ -1,10 +1,38 @@
+# Build options
+source: "."
+template_extensions:
+  - md
+  - liquid
+include_drafts: false
+ignore:
+  - "_site/*"
+  - "bin/*"
+destination: _site
 
+# Site options
 site:
   title: Gazillions of worthless opinions
   description: Me being so freaking smart and never stop talking
-  base_url: http://bohrasd.github.com/findouthowsmartiam/
-ignore:
-  - "_site/*"
+  base_url: https://thoughts.akarat.xyz/
+  sitemap: sitemap.xml
+  data: ~
 
-# posts:
-  # rss: rss.xml
+# Page/Post options
+default:
+  excerpt_separator: "\n\n"
+  is_draft: false
+syntax_highlight:
+  theme: "base16-ocean.dark"
+  enabled: true
+assets:
+  sass:
+    style: Nested
+pages:
+  default: {}
+posts:
+  dir: posts
+  drafts_dir: _drafts
+  order: Desc
+  rss: rss.xml
+  publish_date_in_filename: true
+  default: {}
