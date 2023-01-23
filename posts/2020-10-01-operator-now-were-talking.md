@@ -2,7 +2,7 @@
 title: 这才是完全体的 operator
 published_date: "2020-10-01 03:32:57 -0700"
 layout: default.liquid
-is_draft: false
+is_draft: true
 ---
 ![看这只自信的河马](https://access.crunchydata.com/documentation/postgres-operator/4.4.1/crunchy_logo.png)
 

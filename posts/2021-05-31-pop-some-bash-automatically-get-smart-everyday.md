@@ -2,7 +2,7 @@
 title: "pop some bash automatically, get smart everyday"
 published_date: "2021-05-31 05:48:54 +0000"
 layout: default.liquid
-is_draft: false
+is_draft: true
 ---
 #### I knew the title is lame but this is actually useful I did it I promise
 
