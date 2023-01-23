@@ -1,6 +1,6 @@
 ---
 title: 为什么自我写作忽然很重要之一
-published_date: "2023-01-19 18:19 -0000"
+published_date: "2023-01-19 18:19:00 +0000"
 layout: default.liquid
 is_draft: false
 ---
